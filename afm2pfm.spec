@@ -6,6 +6,7 @@ Release:	8
 License:	GPL
 Group:		Applications
 Source0:	ftp://sunsite.unc.edu/pub/linux/utils/text/%{name}.tar.gz
+# Source0-md5:	b7598f46b7596c5e3e96ee11fd0a9268
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
