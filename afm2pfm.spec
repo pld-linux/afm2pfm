@@ -10,13 +10,15 @@ Source0:	ftp://sunsite.unc.edu/pub/linux/utils/text/%{name}.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-pfm2afm - convert Windows .pfm files to .afm files afm2pfm - convert
-Adobe .afm file to MS-Windows binary .pfm file
+This package containst two converters:
+- pfm2afm - converts Windows .pfm files to .afm files,
+- afm2pfm - convert Adobe .afm file to MS-Windows binary .pfm file.
 
 %description -l pl
 Programy do konwersji metryk fontów Type1 miêdzy formatami MS Windows
-(.pfm) a Adobe (.afm). pfm2afm - konwertuje pliki .pfm do .afm afm2pfm
-- konwertuje pliki .afm do .pfm
+(.pfm) a Adobe (.afm):
+- pfm2afm - konwertuje pliki .pfm do .afm,
+- afm2pfm - konwertuje pliki .afm do .pfm.
 
 %prep
 %setup -q -n afm2pfm
