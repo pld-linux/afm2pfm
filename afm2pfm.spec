@@ -5,8 +5,6 @@ Version:	1.0
 Release:	8
 License:	GPL
 Group:		Applications
-Group(de):	Applikationen
-Group(pl):	Aplikacje
 Source0:	ftp://sunsite.unc.edu/pub/linux/utils/text/%{name}.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
