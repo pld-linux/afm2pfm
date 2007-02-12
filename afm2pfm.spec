@@ -1,5 +1,5 @@
 Summary:	Type1 font metrics converters
-Summary(pl.UTF-8):   Konwertery metryk fontów Type1
+Summary(pl.UTF-8):	Konwertery metryk fontów Type1
 Name:		afm2pfm
 Version:	1.0
 Release:	8
