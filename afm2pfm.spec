@@ -1,5 +1,5 @@
 Summary:	Type1 font metrics converters
-Summary(pl):	Konwertery metryk fontów Type1
+Summary(pl.UTF-8):   Konwertery metryk fontÃ³w Type1
 Name:		afm2pfm
 Version:	1.0
 Release:	8
@@ -14,8 +14,8 @@ This package containst two converters:
 - pfm2afm - converts Windows .pfm files to .afm files,
 - afm2pfm - convert Adobe .afm file to MS-Windows binary .pfm file.
 
-%description -l pl
-Programy do konwersji metryk fontów Type1 miêdzy formatami MS Windows
+%description -l pl.UTF-8
+Programy do konwersji metryk fontÃ³w Type1 miÄ™dzy formatami MS Windows
 (.pfm) a Adobe (.afm):
 - pfm2afm - konwertuje pliki .pfm do .afm,
 - afm2pfm - konwertuje pliki .afm do .pfm.
